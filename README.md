@@ -5,9 +5,11 @@ Var:
 1) Function-scoped.
 2) Can be redeclared and reassigned.
 3) It is an older version and not recommended in modern JavaScript.
+   
 let:
 1) Block-scoped
 2) Can be reassigned but cannot be redeclared in the same scope.
+   
 const:
 1) Block-scoped
 2) Cannot be reassigned or redeclared after initialization.
