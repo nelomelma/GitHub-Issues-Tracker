@@ -5,6 +5,8 @@ const issuesResponse = {
   status: "success",
   message: "Issues fetched successfully",
   data: [
+    /* 50 issues included*/
+    
     {
       id: 1,
       title: "Fix navigation menu on mobile devices",
