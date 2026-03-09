@@ -1,6 +1,7 @@
 What is the difference between var, let, and const?
 =
 var, let, and const are used to declare variables in JavaScript. 
+
 Var:
 1) Function-scoped.
 2) Can be redeclared and reassigned.
@@ -25,12 +26,15 @@ It is commonly used to copy arrays, merge arrays, and copy objects.
 What is the difference between map(), filter(), and forEach()?
 =
 These are array methods for working with lists of data.
+
 map():
 1) Creates a new array
 2) Applies a function to each element
+   
 filter():
 1) Creates a new array
 2) Returns elements that match a condition
+   
 forEach():
 1) Executes a function for each element.
 2) Does not return a new array.
